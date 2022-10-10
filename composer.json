@@ -1,0 +1,19 @@
+{
+    "name": "abad0/biblioteca-de-peliculas",
+    "autoload": {
+        "psr-4": {
+            "Abad0\\BibliotecaDePeliculas\\": "src/",
+            "Abad0\\public\\": "public/"
+        }
+    },
+    "authors": [
+        {
+            "name": "angel",
+            "email": "perdonholaperdon123@gmail.com"
+        }
+    ],
+    "files": [
+        "public/index.php"
+    ],
+    "require": {}
+}
